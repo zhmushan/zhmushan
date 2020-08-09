@@ -6,6 +6,4 @@
 
 [![zhmushan's GitHub Stats][GITHUB_STATS_SRC]][GITHUB_PROFILE]
 
-<img src="https://raw.githubusercontent.com/zhmushan/zhmushan/master/avatar_flat.svg" align="right" width="170" />
-
 [![zhmushan's Top Langs][GITHUB_LANG_SRC]][GITHUB_PROFILE]

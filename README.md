@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/zhmushan/zhmushan/master/木杉.png" align="right" width="195" />
 
-Hi, this is Mu Shan(木杉), a full-stack engineer. Former [Baidu][BAIDU_ORG] search R&D, now working for [FydeOS][FYDEOS_ORG]. I was also one of the main contributors in the early days of [Deno][DENO_ORG] and used to be a maintainer of [DenoLib][DENOLIB_ORG]. I've also corrected typos for countless well-known open source projects like [Vue][VUE_ORG], [Nodejs][NODEJS_ORG], etc.
+Hi, this is Mu Shan(木杉), a full-stack engineer. Used to be a [Baidu][BAIDU_ORG] search developer, now working for [FydeOS][FYDEOS_ORG]. I was also one of the main contributors in the early days of [Deno][DENO_ORG], and used to be a maintainer of [DenoLib][DENOLIB_ORG]. I've also corrected typos for countless well-known open source projects like [Vue][VUE_ORG], [Nodejs][NODEJS_ORG], etc.
 
 [![zhmushan's GitHub Stats][GITHUB_STATS_SRC]][GITHUB_PROFILE]
 
